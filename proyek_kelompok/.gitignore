@@ -1,0 +1,34 @@
+# Abaikan file lebih dari 100 MB
+cifar/cifar-10-python.tar.gz
+script/runs/detect/predict3/OTV3.avi
+script/runs/detect/predict4/OTV4.avi
+script/runs/detect/predict5/OTV5.avi
+
+# Abaikan semua file AVI di folder runs
+script/runs/**/*.avi
+
+# Abaikan file sementara sistem
+.DS_Store
+Thumbs.db
+
+# Abaikan file log
+*.log
+
+# Abaikan environment Python
+venv/
+.env/
+
+# Abaikan file sementara dari IDE
+.idea/
+.vscode/
+
+# Abaikan file yang dihasilkan oleh Jupyter Notebook
+.ipynb_checkpoints/
+
+# Abaikan cache dan file sementara Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan folder output YOLO
+proyek_kelompok/script/runs/

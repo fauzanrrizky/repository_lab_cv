@@ -1,0 +1,14 @@
+train: D:/Fauzan/KULIAH/Semester 7/Computer Vision/repository-lab/repository_lab_cv/proyek_kelompok/dataset/images/train/
+val: D:/Fauzan/KULIAH/Semester 7/Computer Vision/repository-lab/repository_lab_cv/proyek_kelompok/dataset/images/val/
+names:
+  0: pin magnet
+  1: mario
+  2: dummy
+  3: buku
+  4: penghapus papan tulis
+  5: sabun
+  6: galon
+  7: dispenser
+  8: poster
+  9: spidol
+  10: robot

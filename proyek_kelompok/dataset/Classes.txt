@@ -1,0 +1,11 @@
+pin magnet
+mario
+dummy
+buku
+penghapus papan tulis
+sabun
+galon
+dispenser
+poster
+spidol
+robot
